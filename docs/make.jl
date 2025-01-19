@@ -19,7 +19,6 @@ makedocs(
         "combine.md",
         "readwrite.md",
         "tables.md",
-        "dotfile.md",
         "plotting.md",
     ]
 )
